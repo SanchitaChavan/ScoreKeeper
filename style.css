@@ -1,0 +1,12 @@
+.winner{
+	color: green;
+}
+body{
+	text-align: center;
+	padding-top: 100px;
+}
+input{
+	width: 75px;
+	border-radius: 2px;
+	border-width: 2px;
+}
