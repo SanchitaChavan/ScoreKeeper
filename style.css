@@ -1,12 +1,25 @@
+
 .winner{
 	color: green;
 }
 body{
 	text-align: center;
-	padding-top: 100px;
+	padding-top: 90px;
+	line-height: 15px;
 }
 input{
 	width: 75px;
 	border-radius: 2px;
 	border-width: 2px;
+}
+
+
+
+@media (max-width: 767px) {
+
+body{
+	text-align: center;
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
 }
